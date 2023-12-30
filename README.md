@@ -13,7 +13,7 @@
 
 1. Deployed link:
 
-   https://658ed673f7667fb9261db622--coruscating-biscotti-ba2058.netlify.app/  
+   https://6590541d5e2c0588e6fdfcd0--melodic-sprinkles-d5a222.netlify.app/  
 
 ## How to Start the App
 
